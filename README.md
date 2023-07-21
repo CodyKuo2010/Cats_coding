@@ -17,4 +17,4 @@ Once you make your directories, train them, and export them the my_pets.py will 
 5. Find the my_pets directory under classification. Open a terminal and cd to my_pets. Run this command: imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/**(your pet here)**/**(image name here)**.jpg **(new name for image)**.jpg. It will print out your image, idenitfying the class and confidence. The more pictures you took, the higher the confidence will be.
 6. You will need the jetson_inference library.
 
-[View a video explanation here](video link)
+[View a video explanation here](https://www.youtube.com/watch?v=k6ZOh6K1HQI)https://www.youtube.com/watch?v=k6ZOh6K1HQI)
