@@ -1,6 +1,6 @@
 # Pet identifier
 
-Have AI differentiate your pets using this code! All you need are pictures and to follow a few simple steps. You need imagenet from jetson_inference.
+Have AI differentiate your pets using this code! All you need are pictures and to follow a few simple steps. You will need **imagenet** from **jetson_inference**.
 
 ![add image description here](direct image link here)
 
